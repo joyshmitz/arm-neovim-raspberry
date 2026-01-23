@@ -9,10 +9,10 @@ importers:
   .:
     devDependencies:
       dockerfilelint:
-        specifier: ^1.8.0
+        specifier: 1.8.0
         version: 1.8.0
       shellcheck:
-        specifier: ^3.0.0
+        specifier: 3.0.0
         version: 3.0.0
 
 packages:
@@ -44,6 +44,7 @@ packages:
 
   boolean@3.2.0:
     resolution: {integrity: sha512-d0II/GO9uf9lfUHH2BQsjxzRJZBdsjgsBiW4BvhWk/3qoKwQFjIDVN19PfX8F2D/r9PCMTtLWjYVCFrpeYUzsw==}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   buffer-alloc-unsafe@1.1.0:
     resolution: {integrity: sha512-TEM2iMIEQdJ2yjPJoSIsldnleVaAk1oW3DBVUykyOLsEsFmEc9kn+SFFPz+gl54KQNxlDnAwCXosOS9Okx2xAg==}
